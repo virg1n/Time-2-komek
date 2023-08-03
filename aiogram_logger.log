@@ -1,0 +1,6 @@
+05-03-2023 09:44:18.948 INFO logging.py on_pre_process_message Received message [ID:1] in chat [private:851904025]
+05-03-2023 09:44:19.167 INFO logging.py on_post_process_update Process update [ID:284042906]: [success] (in 220 ms)
+05-03-2023 09:44:25.484 INFO logging.py on_pre_process_message Received message [ID:3] in chat [private:851904025]
+05-03-2023 09:44:25.692 INFO logging.py on_post_process_update Process update [ID:284042907]: [success] (in 209 ms)
+05-03-2023 09:44:38.576 INFO logging.py on_pre_process_message Received message [ID:5] in chat [private:851904025]
+05-03-2023 09:44:38.794 INFO logging.py on_post_process_update Process update [ID:284042908]: [success] (in 217 ms)

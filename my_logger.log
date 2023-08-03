@@ -1,0 +1,4 @@
+05-03-2023 09:44:12.328 ERROR main.py on_startup Сообщение о запуске бота не ушло. Ошибка Chat not found
+05-03-2023 09:44:12.328 INFO main.py on_startup Бот запущен
+05-03-2023 09:44:18.949 INFO start_handler.py process_start_command user id-851904025 tg-@Dtorossyan start a bot
+05-03-2023 09:44:25.485 INFO new_member.py start_registration Пользователь с TG_ID 851904025 начал процесс регистрации

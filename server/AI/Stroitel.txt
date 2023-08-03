@@ -1,0 +1,89 @@
+back
+Development of server applications
+Web development
+Databases
+API Development
+Working with JSON and XML
+SQL and NoSQL databases
+Data management
+Data security and protection
+Working with cloud services
+Application Architecture
+Caching
+Performance optimization
+Microservices
+Docker
+Containerization
+Development using design patterns
+Version control systems
+Testing and debugging applications
+Continuous Integration and Delivery (CI/CD).
+Django
+flask
+backend
+backend development
+backend for websites
+backend for applications
+Development of monitoring and logging systems
+Development using libraries and packages
+Development of administrative interfaces
+Development of authorization and authentication mechanisms
+Processing and analysis of big data
+Working with security protocols
+Network optimization
+Automatic application testing
+Application Performance Analysis
+Working with multithreading and concurrency
+Development of extensions and plugins
+Working with metrics and analytics.
+
+Java developer
+Python developer
+PHP developer
+Ruby on Rails developer
+Node.js developer
+.NET developer
+C# developer
+SQL developer
+MySQL developer
+PostgreSQL developer
+MongoDB developer
+Oracle developer
+AWS developer
+Azure developer
+Google Cloud developer
+RESTful API developer
+GraphQL developer
+Microservices developer
+Docker developer
+Kubernetes developer
+Jenkins developer
+Git developer
+Agile developer
+Scrum developer
+DevOps developer
+Test-driven developer
+Security-focused developer
+Scalability-focused developer
+Performance-focused developer
+Optimization-focused developer
+Backend architecture designer
+Backend system integrator
+Backend data analyst
+Backend data scientist
+Backend data engineer
+Backend machine learning engineer
+Backend AI developer
+Backend robotics developer
+Backend blockchain developer
+Backend fintech developer
+Backend gaming developer
+Backend e-commerce developer
+Backend CMS developer
+Backend ERP developer
+Backend CRM developer
+Backend HRIS developer
+Backend LMS developer
+Backend BI developer
+Backend MIS developer
+Backend SaaS developer
